@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // API Keys
-const MEDIASTACK_API_KEY = '2eb069f33bface9d89a7ead66ea46827';
-const SERPAPI_KEY = '63b137e39acfbb31a0ac0655ca91e38986264af29cfea6f18deab8bb38b1e5d3';
+const MEDIASTACK_API_KEY = 'd21fb6eafc06217c4f782923907ebba8';
+const SERPAPI_KEY = '772d117d9a971777fadf11a9a571237bfe70af99b5d2a08f99b736b77761340a';
 
 export interface NewsArticle {
   title: string;
