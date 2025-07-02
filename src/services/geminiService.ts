@@ -4,7 +4,7 @@ import { VideoAnalysisResult } from './youtubeService';
 import { ChatContextData } from '../contexts/ChatContext';
 import { analyzeVideoContent, ContentAnalysisResult } from './contentAnalysisService';
 
-const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || '';
+const API_KEY = 'AIzaSyBtVViy6yw2j0ej7EteaZqG0dBC08uCZZo';
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 const SHARP_ANALYSIS_SYSTEM_PROMPT = `You are Bolt AI, an intelligent analysis system powered by Gemini 2.5 Pro. Provide sharp, structured, evidence-based reports when analyzing content.
