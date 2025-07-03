@@ -54,7 +54,7 @@ export interface VideoAnalysisResult {
 
 // Check if API key is configured
 const checkApiKey = (): void => {
-  if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'YOUR_YOUTUBE_API_KEY_HERE') {
+  if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'AIzaSyComaDB_i2hREfT17GymA34zuYc-y8Bv7w') {
     throw new Error('YouTube API key is not configured. Please set VITE_YOUTUBE_API_KEY in your .env file.');
   }
 };
