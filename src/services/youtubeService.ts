@@ -52,12 +52,7 @@ export interface VideoAnalysisResult {
   downloadPath?: string;
 }
 
-// Check if API key is configured
-const checkApiKey = (): void => {
-  if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'AIzaSyComaDB_i2hREfT17GymA34zuYc-y8Bv7w') {
-    throw new Error('YouTube API key is not configured. Please set VITE_YOUTUBE_API_KEY in your .env file.');
-  }
-};
+
 
 // Extract YouTube video ID from URL (including Shorts)
 export const extractVideoId = (url: string): string | null => {
