@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const YOUTUBE_API_KEY = import.meta.env.VITE_YOUTUBE_API_KEY;
+const YOUTUBE_API_KEY = 'AIzaSyDk_i1eo4JJ-KHjgjpgUimfDFyV0mpdnN8';
 
 export interface YouTubeVideo {
   id: string;
