@@ -64,11 +64,12 @@ The updated APIs require **paid credits or subscription access**, which limits r
 - [Nidhish](https://github.com/Nidhish021204)  
 - [Ujjawal](https://github.com/ujju3010)  
 - [Akshit](https://github.com/AkkySharma525)  
-- Krish  
+- [Krish](https://github.com/Batmanmait)  
 
 ---
 
 ## 📄 License
 This project is open source under the [MIT License](LICENSE).  
+
 
 
