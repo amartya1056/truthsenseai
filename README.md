@@ -62,11 +62,12 @@ The updated APIs require **paid credits or subscription access**, which limits r
 ## 👨‍💻 Contributors
 - [Amartya](https://github.com/amartya1056)  
 - Nidhish  
-- Ujjawal  
-- Akshit  
+- [Ujjawal](https://github.com/ujju3010)  
+- [Akshit](https://github.com/AkkySharma525)  
 - Krish  
 
 ---
 
 ## 📄 License
 This project is open source under the [MIT License](LICENSE).  
+
